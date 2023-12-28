@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TEMA PALINDROM", "TEMA PALINDROM\TEMA PALINDROM.csproj", "{F4997C9C-DFF5-4371-B551-2AF6FCD5C0B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4997C9C-DFF5-4371-B551-2AF6FCD5C0B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4997C9C-DFF5-4371-B551-2AF6FCD5C0B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4997C9C-DFF5-4371-B551-2AF6FCD5C0B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4997C9C-DFF5-4371-B551-2AF6FCD5C0B7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABF711B1-CE71-4876-BADA-94C81735FA71}
+	EndGlobalSection
+EndGlobal
