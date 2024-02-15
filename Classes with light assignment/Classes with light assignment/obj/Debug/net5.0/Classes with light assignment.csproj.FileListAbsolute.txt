@@ -1,0 +1,16 @@
+C:\Programe Juniormind\1111111\Classes with light assignment\Classes with light assignment\bin\Debug\net5.0\Classes with light assignment.exe
+C:\Programe Juniormind\1111111\Classes with light assignment\Classes with light assignment\bin\Debug\net5.0\Classes with light assignment.deps.json
+C:\Programe Juniormind\1111111\Classes with light assignment\Classes with light assignment\bin\Debug\net5.0\Classes with light assignment.runtimeconfig.json
+C:\Programe Juniormind\1111111\Classes with light assignment\Classes with light assignment\bin\Debug\net5.0\Classes with light assignment.runtimeconfig.dev.json
+C:\Programe Juniormind\1111111\Classes with light assignment\Classes with light assignment\bin\Debug\net5.0\Classes with light assignment.dll
+C:\Programe Juniormind\1111111\Classes with light assignment\Classes with light assignment\bin\Debug\net5.0\ref\Classes with light assignment.dll
+C:\Programe Juniormind\1111111\Classes with light assignment\Classes with light assignment\bin\Debug\net5.0\Classes with light assignment.pdb
+C:\Programe Juniormind\1111111\Classes with light assignment\Classes with light assignment\obj\Debug\net5.0\Classes with light assignment.csproj.AssemblyReference.cache
+C:\Programe Juniormind\1111111\Classes with light assignment\Classes with light assignment\obj\Debug\net5.0\Classes with light assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programe Juniormind\1111111\Classes with light assignment\Classes with light assignment\obj\Debug\net5.0\Classes with light assignment.AssemblyInfoInputs.cache
+C:\Programe Juniormind\1111111\Classes with light assignment\Classes with light assignment\obj\Debug\net5.0\Classes with light assignment.AssemblyInfo.cs
+C:\Programe Juniormind\1111111\Classes with light assignment\Classes with light assignment\obj\Debug\net5.0\Classes with light assignment.csproj.CoreCompileInputs.cache
+C:\Programe Juniormind\1111111\Classes with light assignment\Classes with light assignment\obj\Debug\net5.0\Classes with light assignment.dll
+C:\Programe Juniormind\1111111\Classes with light assignment\Classes with light assignment\obj\Debug\net5.0\ref\Classes with light assignment.dll
+C:\Programe Juniormind\1111111\Classes with light assignment\Classes with light assignment\obj\Debug\net5.0\Classes with light assignment.pdb
+C:\Programe Juniormind\1111111\Classes with light assignment\Classes with light assignment\obj\Debug\net5.0\Classes with light assignment.genruntimeconfig.cache
